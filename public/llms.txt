@@ -1,0 +1,90 @@
+# המומחים בבניה קלה ועבודות הבית — Generative Engine Optimization Map
+
+> A handyman and light construction business offering a range of home repair, maintenance, and small-scale construction services. The business focuses on practical, reliable solutions for everyday home improvement needs.
+
+---
+
+## Pages
+
+### בית
+https://-247c00a8.zappy5.app
+מחפשים הנדימן אמין? המומחים בבניה קלה ועבודות הבית מספקים שירותי תיקונים, תחזוקה ובניה קלה לכל רחבי הבית. איכות, ניסיון ומחירים הוגנים. התקשרו עוד היום להערכת מחיר חינם!
+
+### שירותים
+https://-247c00a8.zappy5.app/services
+גלו את כל השירותים שאנחנו מציעים: תיקוני אינסטלציה, צבע, חשמל, גבס, בניה קלה ועוד. צוות מיומן שמגיע לכל עבודה עם כלים מתקדמים. לחצו לראות את רשימת השירותים המלאה ולהזמין עכשיו!
+
+### פרויקטים
+https://-247c00a8.zappy5.app/projects
+הצצה לפרויקטים האחרונים שלנו: תוספות בניה, שיפוצי מטבח, חיפוי קירות ועוד. כל פרויקט מבוצע בקפידה על ידי מיטב בעלי המקצוע. בקרו בגלריה וקבלו השראה לפרויקט הבא שלכם!
+
+### אודות
+https://-247c00a8.zappy5.app/about
+מי אנחנו? צוות מסור של אנשי מקצוע עם ניסיון של שנים בבניה קלה ופתרונות ביתיים. אנחנו מאמינים בשקיפות, אמינות ושירות אישי. קראו עוד על הדרך שלנו ולמה כדאי לבחור בנו.
+
+### צור קשר
+https://-247c00a8.zappy5.app/contact
+מוכנים להפוך את הבית למקום מושלם? השאירו פרטים בטופס צור קשר או חייגו אלינו לשיחת ייעוץ חינם. אנחנו זמינים לכל שאלה, הצעת מחיר או השראה. בואו נדבר!
+
+### תודה - הפנייה התקבלה
+https://-247c00a8.zappy5.app/thank-you
+המומחים בבניה קלה ועבודות הבית - תודה - הפנייה התקבלה
+
+## Legal & Policy
+
+### Privacy Policy
+https://-247c00a8.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-247c00a8.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-247c00a8.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-247c00a8.zappy5.app/contact
+- Endpoint: https://-247c00a8.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About המומחים בבניה קלה ועבודות הבית
+A handyman and light construction business offering a range of home repair, maintenance, and small-scale construction services. The business focuses on practical, reliable solutions for everyday home improvement needs.
+
+## Services/Products
+- handyman services
+- light construction
+
+## Target Audience
+- משפחות לשיפוץ בית
+- קונים דירות לראשונה
+- פנסיונרים לשיפור הבית
+
+## Industry
+Home Services & Construction
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-247c00a8.zappy5.app/sitemap.xml
+- Robots: https://-247c00a8.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-247c00a8.zappy5.app/llms-full.txt
